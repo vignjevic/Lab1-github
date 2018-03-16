@@ -1,0 +1,11 @@
+                                      commit 674786c4be1530910378ba3dbb4219394785e3e8 (HEAD -> logging, master)
+Author: nikola.vignjevik@students.finki.ukim.mk <nikola.vignjevik@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:49:30 2018 +0100
+
+    modify l1.txt
+
+commit b4d835c351a1c318cef4f5d14d154fa2b25c2aa3
+Author: nikola.vignjevik@students.finki.ukim.mk <nikola.vignjevik@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:46:44 2018 +0100
+
+    initial commit
